@@ -38,4 +38,3 @@ There are also conversion methods which allow conversion to primitive types:
 You may define INFINT_USE_EXCEPTIONS and library methods will start raising InfIntException? in case of error instead of writing error messages using std::cerr.
 </blockquote>
 
-The instructions [here](https://www.learncpp.com/cpp-tutorial/a2-using-libraries-with-visual-studio-2005-express/) are really helpful for running this code on Windows.
